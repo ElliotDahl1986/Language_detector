@@ -1,4 +1,4 @@
-# Language_detector (Work in progress)
+# Language_detector
 
 In this project I use [European Parliament Proceedings Parallel Corpus](http://www.statmt.org/europarl/) which is a text dataset used for evaluating language detection engines. The 1.5GB corpus includes 21 languages spoken in EU. 
 
